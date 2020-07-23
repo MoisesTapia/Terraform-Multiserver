@@ -7,6 +7,7 @@
 ![starts](https://img.shields.io/github/stars/MoisesTapia/Terraform-Multiserver?style=plastic)
 ![License](https://img.shields.io/github/license/MoisesTapia/Terraform-Multiserver?style=plastic)
 ![fork](https://img.shields.io/github/forks/MoisesTapia/Terraform-Multiserver?color=se&style=plastic)<br>
+![security](https://img.shields.io/security-headers?url=https%3A%2F%2Fgithub.com%2FMoisesTapia%2FInfra-Basic)
 
 # Graph
 
