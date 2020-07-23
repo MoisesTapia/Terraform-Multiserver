@@ -11,7 +11,7 @@
 
 # Graph
 
-![Graph](https://github.com/MoisesTapia/Terraform-Multiserver/blob/master/images/MultiServer.png)
+![Graph](https://github.com/MoisesTapia/Terraform-Multiserver/blob/master/images/Multiserver.png)
 
 # Scheme
 
