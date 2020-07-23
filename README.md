@@ -8,4 +8,10 @@
 ![License](https://img.shields.io/github/license/MoisesTapia/Terraform-Multiserver?style=plastic)
 ![fork](https://img.shields.io/github/forks/MoisesTapia/Terraform-Multiserver?color=se&style=plastic)<br>
 
+# Graph
+
 ![Graph](https://github.com/MoisesTapia/Terraform-Multiserver/blob/master/images/MultiServer.png)
+
+# Scheme
+
+![scheme](https://github.com/MoisesTapia/Terraform-Multiserver/blob/master/images/graph.png)
